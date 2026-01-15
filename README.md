@@ -9,3 +9,8 @@ A toolbox for some YT2JB related tasks.
 - Auto-Replace download0.dat on PS5 with YT2JB Autoloader download0.dat
 - Patch app.db/appinfo.db/param.json to fully block YouTube from being updated
 - Auto-Block over FTP option to fully block YouTube from being updated directly on PS5
+
+## Notes
+- Most buttons have Tooltips for more information
+- The 'Send etaHEN payload' option first downloads etaHEN v2.5b and stores it in the Cache folder, the second send will be faster
+- When using the 'Auto-Block over FTP option' it is recommended to stay in the Settings of the PS5 to avoid any crashes
