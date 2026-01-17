@@ -1,12 +1,12 @@
 # YT2JB Toolbox
-A little toolbox for some YT2JB related tasks.
+A little toolbox for some Y2JB related tasks.
 
 <img width="549" height="488" alt="v1 1screenshot" src="https://github.com/user-attachments/assets/31936da4-ae54-4e4e-af6a-e54a2f2c9bd6" />
 
 - Send etaHEN payload option
 - Re-Install YouTube using etaHEN DPI v2
 - Upload download0.dat from PC to PS5
-- Auto-Replace download0.dat on PS5 with YT2JB download0.dat
+- Auto-Replace download0.dat on PS5 with Y2JB download0.dat
 - Patch app.db/appinfo.db/param.json to fully block YouTube from being updated
 - Auto-Block over FTP option to fully block YouTube from being updated directly on PS5
 - Download y2jb_update.zip to an USB drive
