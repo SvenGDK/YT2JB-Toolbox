@@ -13,6 +13,11 @@ A little toolbox for some Y2JB related tasks.
 - Send a custom payload to the PS5
 
 ## Notes
+- Requires .NET 8.0 Runtime x64
+  - [Windows x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.23-windows-x64-installer)
+  - [Linux x64](https://learn.microsoft.com/en-gb/dotnet/core/install/linux?WT.mc_id=dotnet-35129-website)
+  - [macOS x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.23-macos-x64-installer)
+  - [FreeBSD x64](https://github.com/SvenGDK/YT2JB-Toolbox/releases/tag/v1.1) -> Check 'Linux, FreeBSD & macOS Usage'
 - Most buttons have Tooltips for more information
 - The 'Send etaHEN payload' option first downloads etaHEN v2.5b and stores it in the Cache folder, the second send will be faster
 - When using the 'Auto-Block over FTP option' it is recommended to stay in the Settings of the PS5 to avoid any crashes
